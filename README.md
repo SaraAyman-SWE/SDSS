@@ -3,7 +3,9 @@
 # Intro 
 
 Distributed systems play an important role in our lives today; think about the number of Google servers that exist around the globe or machines in Amazon's cloud. It's often important to measure the delay between nodes in order to distribute a workload for example in the most efficient way. In this lab, we'll get introduced to a simple way to measure delay between nodes (i.e. devices).
-Objective 🔍
+
+# Objective 
+
 This project is a mini introduction to peer-to-peer networking. We'll get to know how connections can be initiated when no single node is the server.
 You'll also get yourself comfortable with the notion that any node can either be a client or a server or switch from one to another. 
 One other purpose is to make a network with minimal infrastructure, this is useful in emergencies for example or saving bandwidth and many other cases you can read about Ad-hoc & Mesh networks.
